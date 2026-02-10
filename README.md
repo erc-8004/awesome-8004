@@ -52,6 +52,7 @@ Guides and resources to help you start building with ERC-8004.
 ### Implementation Examples
 
 - [**Chaos Chain**](https://github.com/ChaosChain/trustless-agents-erc-ri) - Trustless agents implementation
+- [**Chitin**](https://chitin.id) - Soul identity layer for AI agents on Base L2. Uses ERC-8004 `register()` + Soulbound Tokens for permanent agent identity, DID resolution, on-chain certificates, and governance voting. Live on Base Mainnet. ([MCP Server](https://www.npmjs.com/package/chitin-mcp-server) | [GitHub](https://github.com/Tiida-Tech/chitin-contracts))
 - [**Phala**](https://github.com/Phala-Network/erc-8004-tee-agent) - TEE agent implementation
 - [**Zpaynow**](https://github.com/zpaynow/8004) - Rust implementation
 
