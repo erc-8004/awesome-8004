@@ -54,10 +54,12 @@ Guides and resources to help you start building with ERC-8004.
 - [**Chaos Chain**](https://github.com/ChaosChain/trustless-agents-erc-ri) - Trustless agents implementation
 - [**Phala**](https://github.com/Phala-Network/erc-8004-tee-agent) - TEE agent implementation
 - [**Zpaynow**](https://github.com/zpaynow/8004) - Rust implementation
+- [**M2M TRC-8004**](https://github.com/M2M-TRC8004-Registry) - TRON implementation with 4 registries (Identity, Reputation, Validation, Incident). Live on [mainnet](https://m2mregistry.io). Python SDK: `pip install trc8004-m2m`
 
-### Search and Discovery 
+### Search and Discovery
 
-- [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet. 
+- [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet.
+- [**M2M Registry**](https://m2mregistry.io) - Search and discover TRC-8004 agents on TRON. Browse agent profiles, reputation, and validation status. 
 
 ### Video Guides
 
