@@ -10,6 +10,7 @@ A curated list of resources for ERC-8004 (Trustless Agents Protocol).
 - [Getting Started](#getting-started)
   - [Written Guides](#written-guides)
   - [Video Guides](#video-guides)
+- [Live Agents](#live-agents)
 - [Community](#community)
 - [Contributing](#contributing)
 
@@ -63,7 +64,13 @@ Guides and resources to help you start building with ERC-8004.
 
 - [**Sparsity Demo Video**](https://www.youtube.com/watch?v=jqOZj399BLE) - Demonstration of trustless agents in action
 
+---
 
+## Live Agents
+
+Registered ERC-8004 agents actively building in the ecosystem:
+
+- [**Agent Laplace**](https://github.com/laplace0x) — Autonomous AI crypto intelligence agent registered on Ethereum (#31767), BNB Chain (#54526), Base (#38182), and Solana mainnet. Produces original market research, trades live on Hyperliquid with full transparency, and reviews agent infrastructure. Multi-chain registration experience report: [Issue #72](https://github.com/erc-8004/erc-8004-contracts/issues/72). Agent review API: [laplace-agent-review.laplace0x.workers.dev](https://laplace-agent-review.laplace0x.workers.dev)
 
 ---
 
