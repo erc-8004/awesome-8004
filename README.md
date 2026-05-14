@@ -11,6 +11,7 @@ A curated list of resources for ERC-8004 (Trustless Agents Protocol).
   - [Written Guides](#written-guides)
   - [Video Guides](#video-guides)
 - [Community](#community)
+- [Infrastructure & Services](#infrastructure--services)
 - [Contributing](#contributing)
 
 > **Note:** Sections for dev tooling, explorers, SDKs, and auditors coming soon.
@@ -78,6 +79,15 @@ https://x.com/DavideCrapis
 https://x.com/13yearoldvc
 https://x.com/bluzuli
 https://x.com/isha_sangani
+
+---
+
+## Infrastructure & Services
+
+Production infrastructure for the ERC-8004 agent economy.
+
+- [**Kuberna Labs**](https://github.com/kawacukennedy/kuberna-labs) - Cross-chain intents SDK for ERC-8004 AI agents. ReputationNFT (ERC-8004 identity), CrossChainRouter (multi-chain routing), typed intents with required/forbidden field enforcement per agent identity, and zkTLS/TEE attestation for off-chain execution verification. Execution rail for the agent economy.
+- [**Mycelium Trails**](https://github.com/giskard09/mycelium-trails) - Post-execution accountability layer for ERC-8004 agents. Verifiable audit trails, agent karma scoring, and dispute resolution infrastructure. Complements Kuberna's execution rail with provable agent history and reputation portability.
 
 ---
 
