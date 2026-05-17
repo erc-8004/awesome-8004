@@ -57,7 +57,8 @@ Guides and resources to help you start building with ERC-8004.
 
 ### Search and Discovery 
 
-- [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet. 
+- [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet.
+- [**Assay Protocol**](https://assaylabs.xyz) - Trust scoring (0-1000), USDC-staked accountability, and outcome-verified escrow for ERC-8004 agents on Base. npm SDK: [`@assaylabs/trust-check`](https://www.npmjs.com/package/@assaylabs/trust-check). [GitHub](https://github.com/Grandionn/assay-protocol)
 
 ### Video Guides
 
