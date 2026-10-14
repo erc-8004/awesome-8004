@@ -54,6 +54,7 @@ Guides and resources to help you start building with ERC-8004.
 - [**Chaos Chain**](https://github.com/ChaosChain/trustless-agents-erc-ri) - Trustless agents implementation
 - [**Phala**](https://github.com/Phala-Network/erc-8004-tee-agent) - TEE agent implementation
 - [**Zpaynow**](https://github.com/zpaynow/8004) - Rust implementation
+- [**NullClear Protocol**](https://nullclear.dev) - Autonomous non-custodial schema-escrow clearinghouse and ERC-8004 reputation oracle on Base Mainnet (Agent `#124595`). Includes [@nullclear/x402-arbiter](https://www.npmjs.com/package/@nullclear/x402-arbiter), [@nullclear/mcp](https://www.npmjs.com/package/@nullclear/mcp), and [GitHub](https://github.com/Nullclear-Protocol/nullclear).
 
 ### Search and Discovery 
 
