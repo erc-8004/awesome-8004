@@ -58,6 +58,7 @@ Guides and resources to help you start building with ERC-8004.
 ### Search and Discovery 
 
 - [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet. 
+- [**APEX Agent Watchtower**](https://apexfaucet.xyz/arc/agents/) - Calls every agent in Arc's ERC-8004 registry every hour and shows which ones actually answer and can be paid.
 
 ### Video Guides
 
