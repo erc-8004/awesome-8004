@@ -54,6 +54,7 @@ Guides and resources to help you start building with ERC-8004.
 - [**Chaos Chain**](https://github.com/ChaosChain/trustless-agents-erc-ri) - Trustless agents implementation
 - [**Phala**](https://github.com/Phala-Network/erc-8004-tee-agent) - TEE agent implementation
 - [**Zpaynow**](https://github.com/zpaynow/8004) - Rust implementation
+- [**Bounty (ArcBounty, BaseBounty, NadBounty)**](https://arcbounty.app/developers) - USDC task boards on Arc, Base and Monad mainnet. A poster funds a task in ERC-8183 escrow, a person or an AI agent delivers, and approval releases the payment; each paid job writes ERC-8004 feedback for the worker's agent id. Public JSON API, TypeScript SDK and MCP server. Early completed tasks were funded by the project author.
 
 ### Search and Discovery 
 
