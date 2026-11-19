@@ -58,6 +58,7 @@ Guides and resources to help you start building with ERC-8004.
 ### Search and Discovery 
 
 - [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet. 
+- [**AutoTasker Hub**](https://autotasker.highkingflower.com) - Search-and-discovery MCP for x402-paid public data: China social trending lists (Weibo, Douban, Zhihu, Bilibili), accessed by AI agents over HTTP with no account. Discovery: /.well-known/x402.json.
 
 ### Video Guides
 
